@@ -1,7 +1,7 @@
 # Setup
 
-bundle
+Run `bundle`
 
 # Run
 
-`bundle exec rspec`
+Run `bundle exec rspec`
